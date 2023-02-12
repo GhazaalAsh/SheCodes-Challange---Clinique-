@@ -1,20 +1,27 @@
 body {
   background: linear-gradient(
-    -180deg,
-    rgba(255, 255, 255, 0.5) 0%,
-    rgba(0, 0, 0, 0.5) 100%
+    179.1deg,
+    rgb(247, 238, 238) -1.9%,
+    rgb(247, 202, 201) 44.9%,
+    rgb(145, 168, 208) 96.1%
   );
+
   background-size: cover;
   background-repeat: no-repeat;
 }
 .container {
+  background-color: #ffffff;
   border: 1px solid #909090;
   border-radius: 10px;
   display: block;
   margin: 0 auto;
-  width: 80%;
+  width: 70%;
 }
 .header-image {
   display: block;
   margin: 0 auto;
+  max-width: 60%;
+}
+.logo {
+  width: 200px;
 }
