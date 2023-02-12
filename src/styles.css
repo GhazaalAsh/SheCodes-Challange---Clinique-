@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(
+    -180deg,
+    rgba(255, 255, 255, 0.5) 0%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  border: 1px solid #909090;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+.header-image {
+  display: block;
+  margin: 0 auto;
+}
